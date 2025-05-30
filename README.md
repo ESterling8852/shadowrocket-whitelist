@@ -1,1 +1,1 @@
-# hkbank
+shadowrocket-whitelist
