@@ -46,19 +46,3 @@ IP-CIDR,13.214.0.0/16
 IP-CIDR,52.76.0.0/16
 IP-CIDR,54.255.0.0/16
 IP-CIDR,103.138.0.0/16
-# 美国银行
-# Wise
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,transferwise.com
-DOMAIN-SUFFIX,wiseassets.com
-# iFAST Global Bank
-DOMAIN-SUFFIX,ifastgb.com
-DOMAIN-SUFFIX,ifastgroup.com
-DOMAIN-SUFFIX,ifastfinancial.com
-# 美国证券
-# 盈透证券 IBKR
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,ibkr.info
-DOMAIN-SUFFIX,ibllc.com
-DOMAIN-SUFFIX,ib.com
