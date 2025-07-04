@@ -1,0 +1,16 @@
+# NAME: crypto whitelist group policy
+# AUTHOR: ESterling8852
+# REPO: https://github.com/ESterling8852/shadowrocket-whitelist/
+# UPDATED: 2025-07-04
+# 加密货币交易所
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,oklink.com
+# 币安
+#DOMAIN-SUFFIX,binance.com
+#DOMAIN-SUFFIX,binance.net
+#DOMAIN-SUFFIX,bnbstatic.com
+#DOMAIN-SUFFIX,binance.vision
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.io
